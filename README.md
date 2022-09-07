@@ -157,3 +157,6 @@ php artisan serve
 
 ![Container](img.png)
 
+--> check extension=gd2 và extension=gd trong php.init của xampp vào terminal chạy sudo apt-get install php7.0-gd nếu lỗi
+--> tạo hai thư mục  thumbnail và images trong public
+
